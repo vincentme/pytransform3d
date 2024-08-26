@@ -534,6 +534,7 @@ Operations and Utility Functions
    :toctree: _apidoc/
    :template: function.rst
 
+   ~pytransform3d.uncertainty.estimate_gaussian_rotation_matrix_from_samples
    ~pytransform3d.uncertainty.estimate_gaussian_transform_from_samples
    ~pytransform3d.uncertainty.invert_uncertain_transform
    ~pytransform3d.uncertainty.concat_globally_uncertain_transforms
@@ -545,7 +546,7 @@ Operations and Utility Functions
 
 
 :mod:`pytransform3d.coordinates`
-=================================
+================================
 
 .. automodule:: pytransform3d.coordinates
     :no-members:
