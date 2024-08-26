@@ -188,6 +188,7 @@ Random Sampling
    ~pytransform3d.rotations.random_axis_angle
    ~pytransform3d.rotations.random_compact_axis_angle
    ~pytransform3d.rotations.random_quaternion
+   ~pytransform3d.rotations.random_matrix
 
 Jacobians
 ---------
